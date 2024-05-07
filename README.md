@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+
   ![ ](BCAM_logo.png)
-</div>
+
 
 # Efficient set-theoretic based algorithm for computing Forman-Ricci curvature and a comparison with other algorithms in the literature
 
