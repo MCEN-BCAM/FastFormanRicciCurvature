@@ -1,6 +1,6 @@
 <div style="display:flex; justify-content:center;">
   <img src="BCAM_logo.png" alt="" style="width: 45%;">
-  <img src="MCEN_logo.png" alt="" style="width: 45%;">
+  <img src="MCEN_logo.png" alt="" style="width: 20%;">
 </div>
 
 # Efficient set-theoretic based algorithm for computing Forman-Ricci curvature and a comparison with other algorithms in the literature
