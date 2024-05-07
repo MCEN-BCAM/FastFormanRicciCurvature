@@ -285,7 +285,7 @@ plt.yticks(fontsize=12)
 
 
     
-![png](output_21_1.png)
+![png](figs/output_21_1.png)
     
 
 
@@ -380,7 +380,7 @@ plt.yticks(fontsize=12)
 
 
     
-![png](output_30_1.png)
+![png](figs/output_30_1.png)
     
 
 
