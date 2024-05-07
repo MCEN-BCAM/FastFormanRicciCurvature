@@ -22,6 +22,7 @@
 ***
 This work is based on our set theoretical approach for computing Forman-Ricci curvature [[1]](https://arxiv.org/abs/2308.11763). We implemented our code in Python language and coinded **fastforman**. We profiled the time processing and memory usage and benchmarked with other alogorithms in the literature, namelly, **GeneralisedFormanRicci** and **HodgeLaplacians**. The benchmark codes and reports can be found at [[2]](https://www.kaggle.com/datasets/danillosouza2020/forman-ricci-curvature-benchmark-report). Here, we also provide an example with usage installations and instructions.
 
+![Benchmark example for 3D random point cloud data with n=100 points, maximum radii r=0.5 and maximum simplex dimension d=2. ](outout_21_1.png)
 
 ## Contact and Support:
 
