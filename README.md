@@ -16,7 +16,7 @@
    **Mathematical, Computational and Experimental Neuroscince group**
    
    **Group Leader:** Serafim Rodrigues
-   --
+   
    **ORCID: [0000-0002-3601-5760](https://orcid.org/0000-0002-3601-5760)**
 
 ***
